@@ -1,0 +1,9 @@
+id = "mcp-server-atproto-docs"
+name = "ATproto Docs MCP Server"
+version = "0.1.0"
+schema_version = 1
+authors = ["moshyfawn <email@moshyfawn.dev>"]
+description = "Remote MCP server to search and query AT Protocol documentation"
+repository = "https://github.com/moshyfawn/zed-mcp-server-atproto-docs"
+
+[context_servers.mcp-server-atproto-docs]
