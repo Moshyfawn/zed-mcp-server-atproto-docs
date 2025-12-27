@@ -1,6 +1,6 @@
 id = "mcp-server-atproto-docs"
 name = "ATproto Docs MCP Server"
-version = "0.1.0"
+version = "0.2.0"
 schema_version = 1
 authors = ["moshyfawn <email@moshyfawn.dev>"]
 description = "Remote MCP server to search and query AT Protocol documentation"
